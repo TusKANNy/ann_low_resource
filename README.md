@@ -23,11 +23,11 @@ Refer to [`kANNolo's guide`](https://github.com/TusKANNy/kannolo/blob/main/docs/
 Below you can find the `.toml` configuration files to reproduce the experiments:
 
 - **kANNolo**:  
-  [`To appear`]()  
+  [`File to appear`]()  
   Version: [`commit 77f1890`](https://github.com/TusKANNy/kannolo/tree/77f189086db95e939c1a26b15d0f33cfb8a4545d) 
 
 - **Seismic**:  
-  [`To appear`]()  
+  [`File to appear`]()  
   Version: [`commit 1234567`](https://github.com/TusKANNy/seismic/tree/04574e4c89c78ce45052ad7e7fef3492e95c6a58)
 
 ---
